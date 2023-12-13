@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signification du mot "Voiture"</title>
+</head>
+<body>
+
+    <header>
+        <h1>Signification du mot "Voiture"</h1>
+    </header>
+
+    <section>
+        <p>Une voiture est un moyen de transport personnel qui est généralement équipé de quatre roues et propulsé par un moteur. Les voitures sont utilisées pour le transport individuel et familial, offrant un moyen pratique et rapide de se déplacer d'un endroit à un autre.</p>
+
+        <p>Les voitures peuvent varier en taille, en forme et en fonctionnalités. Elles peuvent être alimentées par l'essence, le diesel, l'électricité ou d'autres sources d'énergie. Les voitures modernes sont équipées de diverses technologies pour améliorer la sécurité, le confort et l'efficacité énergétique.</p>
+
+        <p>En résumé, une voiture est un véhicule motorisé conçu pour le transport individuel, offrant une mobilité pratique dans la vie quotidienne.</p>
+    </section>
+
+    <footer>
+        <p>© 2023 Votre Nom. Tous droits réservés.</p>
+    </footer>
+
+</body>
+</html>
